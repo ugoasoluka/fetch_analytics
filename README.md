@@ -31,5 +31,4 @@ I'm confident that by addressing these data quality issues and optimizing our da
 Please let me know if you have any questions or concerns.
 
 Thanks,
-
 Ugo Asoluka

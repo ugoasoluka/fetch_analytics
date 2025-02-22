@@ -1,5 +1,4 @@
 -- How does the ranking of the top 5 brands by receipts scanned for the recent month compare to the ranking for the previous month?
-
 SELECT b.name, SUM(r.totalSpent) AS total_spend
 FROM Brands b
 JOIN RewardsReceiptItems rri ON b.barcode = rri.barcode

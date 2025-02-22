@@ -45,5 +45,4 @@ Invalid Dates: Some entries in the purchaseDate column in receipts.json and the 
 Inconsistent topBrand Field: The topBrand field in brands.json is not consistently populated.
 Inconsistent rewardsReceiptStatus Field: The rewardsReceiptStatus field in receipts.json has multiple variations for the same status.
 Inconsistent role Field: The role field in users.json has inconsistencies in capitalization.
-
 '''
